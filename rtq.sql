@@ -1,4 +1,5 @@
 REM  Author: Naresh Bhandare
+REM (use at your own ris - no gurantees implied)
 REM  based on rtop.sql, this shows the same information filtered for a specific sql_id
 REM
 REM example at sqlplus prompt
