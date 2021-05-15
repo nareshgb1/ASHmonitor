@@ -1,3 +1,4 @@
+REM  Author: Naresh Bhandare
 REM  This is based on the rtop.sql and generates similar info for ASH activity filtered for a wait event
 REM  Usage, e.g. at sqlplus prompt
 REM  > @rte
