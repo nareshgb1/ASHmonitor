@@ -7,4 +7,4 @@ module, background process activity, wait class and a couple of other things and
 
 The wiki (and comments in scripts) explains in more detail with some example output.
 
-With thanks to Amit for his knowledge, humor and inspiration. _/\_
+With thanks to Amit for his knowledge, humor and inspiration. _/\\_
